@@ -40,9 +40,9 @@
   flex-direction: column;
   justify-content: center;
    align-items: center;
-  /* top:-70px */
   left: 140px;
-  /* top:-50px */
+  top:-310px;
+  z-index: 1;
 }
 .circle4{
   width:60px;
@@ -63,7 +63,6 @@
   top:-70px;
   right: 0px;
 }
-
 .circle6{
   width:70px;
   height:70px;
@@ -77,5 +76,4 @@
   position: absolute;
   left:140px;
   top:-250px
- 
 }
